@@ -1,0 +1,4 @@
+var person={fname:"John",lname:"Doe",age:25};
+	for(var key in person){ 
+	            content +="陣列索引："+ key+" ; 值： "+person[key] +"\n"; 
+	}
