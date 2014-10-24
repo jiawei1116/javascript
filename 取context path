@@ -3,3 +3,8 @@ var contextPath = localObj.pathname.split("/")[1];
 var basePath = localObj.protocol+"//"+localObj.host+"/"+contextPath;
 var server_context=basePath;
 console.log(contextPath);
+
+
+console.log("window.location.hostname:" + window.location.hostname);
+console.log("window.location.pathname: " + window.location.pathname);
+console.log("window.location.pathname.split('/')[1]: " + window.location.pathname.split("/")[0]);
