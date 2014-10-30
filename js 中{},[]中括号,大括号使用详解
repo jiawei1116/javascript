@@ -1,0 +1,9 @@
+http://www.jb51.net/article/27119.htm
+
+javascript 大括號
+
+{ } 大括号，表示定义一个对象，大部分情况下要有成对的属性和值，或是函数。 
+如：var LangShen = {"Name":"Langshen","AGE":"28"}; 
+上面声明了一个名为“LangShen”的对象，多个属性或函数用,（逗号）隔开，因为是对象的属性， 
+所以访问时，应该用.（点）来层层访问：LangShen.Name、LangShen.AGE，当然我们也可以用数组的方式来访问，如：LangShen["Name"]、LangShen["AGE"]，结果是一样的。 
+该写法，在JSON数据结构中经常用，除此之外，我们平时写函数组的时候，也经常用到
