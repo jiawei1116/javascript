@@ -1,0 +1,14 @@
+assign: function () { [native code] } //跳轉 
+hash: "#a" //取得錨點 
+host: "cat-son.blogspot.tw" 
+hostname: "cat-son.blogspot.tw" 
+href: "http://cat-son.blogspot.tw/#a" 
+origin: "http://cat-son.blogspot.tw" 
+pathname: "/" port: "" 
+protocol: "http:" 
+reload: function () { [native code] } 
+replace: function () { [native code] } 
+search: "?foo=bar" //網址後的query值> 
+
+
+http://cat-son.blogspot.tw/2012/11/javascript-windowlocation.html#sthash.RGUH6sEo.dpbs
