@@ -12,3 +12,8 @@ search: "?foo=bar" //網址後的query值>
 
 
 http://cat-son.blogspot.tw/2012/11/javascript-windowlocation.html#sthash.RGUH6sEo.dpbs
+
+console.log("window.location.host:" + window.location.host);
+console.log("window.location.origin:" + window.location.origin);
+console.log("window.location.hostname:" + window.location.hostname);
+console.log("window.location.protocol:" + window.location.protocol);
